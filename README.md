@@ -1,4 +1,4 @@
-Twitter Clone using React
+Twitter Clone using React / js / Html / css
 
 
 
